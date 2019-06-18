@@ -9,8 +9,6 @@ class CreateCostumes < ActiveRecord::Migration[4.2]
       t.timestamps
     end
   end
-
-
   end
 
 # By convention, the class name should match the part of the
